@@ -23,7 +23,6 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 
 - 🛠 I’m currently working with Node.js, Express.js, VueJS, <br /> Mongodb, Javascript, Python etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
-- 💬 Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - ⚡ Fun fact: 47% of users expect websites to load within 2 seconds.
 - 📫 How to reach me: rk220217@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8BWTZ75k/j8Fv9fASNEyxmFYyRjtmjw/view?utm_content=DAD8BWTZ75k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
