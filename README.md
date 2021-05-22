@@ -15,13 +15,13 @@
 
 ### Glad to see you here! 🤩  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rohan220217.rohan220217)
  
-I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on Image Processing 🤓.
+I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide newbies 👨🏻‍💻. I'm currently into Web, App Development 🕸️ and working on Data Structure and Algorithm 🤓.
 
 <img align="right" height="250" width="375" alt="GIF" src="https://miro.medium.com/proxy/1*mr7WXw8tgpMhqugKP2WhrA.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, VueJS, <br /> Mongodb, Javascript, Python etc 💻.
+- 🛠 I’m experienced in Flutter, Node.js, Express.js, VueJS, <br /> Mongodb, Javascript, Python etc 💻.
 - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
 - ⚡ Fun fact: 47% of users expect websites to load within 2 seconds.
 - 📫 How to reach me: rk220217@gmail.com
@@ -38,15 +38,17 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 
-### 🚀 Frameworks:
+### 🚀 Frameworks and Tools:
 
 <code><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" /></code>
 <code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></code>
 <!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -58,6 +60,8 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
+<br/>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rohan220217&show_icons=true&hide_border=true)
 
