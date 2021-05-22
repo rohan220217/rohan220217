@@ -11,9 +11,13 @@
   <img align="left" alt="Rohan's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<br />
+<div align="right">
 
-### Glad to see you here! 🤩  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rohan220217.rohan220217)
+![](https://visitor-badge.glitch.me/badge?page_id=rohan220217.rohan220217)
+
+</div>
+
+### Glad to see you here! 🤩
  
 I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide newbies 👨🏻‍💻. I'm currently into Web, App Development 🕸️ and working on Data Structure and Algorithm 🤓.
 
