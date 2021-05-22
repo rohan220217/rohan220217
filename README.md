@@ -1,14 +1,14 @@
 <a href="https://www.linkedin.com/in/rohan-kumar-a65a87175/">
-  <img align="left" alt="Rohan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rohan's Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a href="https://github.com/rohan220217">
-  <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Rohan's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 <a href="https://t.me/rk220217">
-  <img align="left" alt="Rohan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Rohan's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 <a href="https://www.facebook.com/monukumar.kool">
-  <img align="left" alt="Rohan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rohan's Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" />
 </a>
 
 <br />
