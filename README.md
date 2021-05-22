@@ -40,9 +40,13 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rohan220217&show_icons=true&hide_border=true)
+
+#
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
