@@ -21,7 +21,7 @@
 
 ### Glad to see you here! 🤩
  
-I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide newbies 👨🏻‍💻. I'm currently into Web, App Development 🕸️ and mastering Data Structure and Algorithm 🤓.
+I'm a 4th year student pursuing B.Tech + M.Tech in Computer Science 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide newbies 👨🏻‍💻. I'm currently into Web, App Development 🕸️ and mastering Data Structure and Algorithm 🤓.
 
 <img align="right" height="250" width="375" alt="GIF" src="https://miro.medium.com/proxy/1*mr7WXw8tgpMhqugKP2WhrA.gif" />
 
