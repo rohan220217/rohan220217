@@ -32,7 +32,7 @@ I'm a 4th year student pursuing B.Tech + M.Tech in Computer Science 🎓 from Ja
 - 🎊 Dynamic Hack 2021 winner
 - ⚡ Fun fact: 47% of users expect websites to load within 2 seconds.
 - 📫 How to reach me: rk220217@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1lS9XodeSYk9qInBgylkqaMqaERAhTBuu/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1oqrCK-EgfQWk-WbLrdxaotS8Q_5Pa8UC/view?usp=sharing)
 
 ### 👩‍💻 Programming Languages:
 
