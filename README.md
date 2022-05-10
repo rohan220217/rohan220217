@@ -27,7 +27,7 @@ I'm a 4th year student pursuing B.Tech + M.Tech in Computer Science 🎓 from Ja
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m experienced in Flutter, Node.js, Express.js, VueJS, <br /> Mongodb, Javascript, Python etc 💻.
+- 🛠 I’m experienced in Flutter, Node.js, Express.js, VueJS, ReactJS <br /> Mongodb, Javascript, Python etc 💻.
 - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
 - 🎊 Dynamic Hack 2021 winner
 - ⚡ Fun fact: 47% of users expect websites to load within 2 seconds.
