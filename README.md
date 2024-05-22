@@ -10,7 +10,7 @@
   <img align="left" alt="Rohan's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 <a href="https://www.facebook.com/monukumar.kool">
-  <img align="left" alt="Rohan's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+  <img align="left" alt="Rohan's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
 </a>
 
 <div align="right">
